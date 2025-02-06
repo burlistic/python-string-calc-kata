@@ -1,7 +1,3 @@
-# Simple TDD Python Project - template for starting a code kata
+# Python String Calc Kata
 
-## Ensure you have Python installed locally
-
-## Then install pytest
-
-## pip install -U pytest
+## Implemenation of https://osherove.com/tdd-kata-1
